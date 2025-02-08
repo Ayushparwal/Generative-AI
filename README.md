@@ -1,2 +1,2 @@
 # Generative-AI
-in this repo I will code the Gen AI concepts which is used for LLM building.
+updated on 8/2/2025 youtubeVideoSummarizer.
